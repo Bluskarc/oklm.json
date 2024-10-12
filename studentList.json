@@ -1,4 +1,9 @@
-[
+[  
+  {
+    "id": 1,
+    "fullname": "stuID=1",
+    "groups": "test",
+  },
   {
     "id": 97,
     "username": "tomoko",
