@@ -1,5 +1,5 @@
 {
   "oklmUrl": "http://10.236.173.17:5005/v0/",
-  "maxHelper": 5,
-  "maxKnowledge": 6
+  "maxKnowledge": 6,
+  "maxHelper": 5
 }
