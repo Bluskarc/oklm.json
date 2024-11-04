@@ -1,5 +1,5 @@
 {
-  "isDebugMode": true,
+  "isDebugMode": false,
   "oklmUrl": "http://10.236.173.17:5010",
   "maxKnowledge": 6,
   "maxHelper": 6
