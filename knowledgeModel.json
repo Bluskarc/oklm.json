@@ -4,35 +4,35 @@
     "title": "[1] 正の数・負の数",
     "children": [
       {
-        "value": 644,
+        "value": 654,
         "title": "0より小さい数"
       },
       {
-        "value": 645,
+        "value": 655,
         "title": "正の数・負の数で量を表すこと"
       },
       {
-        "value": 646,
+        "value": 656,
         "title": "絶対値と数の大小"
       },
       {
-        "value": 647,
+        "value": 657,
         "title": "正の数・負の数の加法，減法"
       },
       {
-        "value": 648,
+        "value": 658,
         "title": "正の数・負の数の乗法，除法"
       },
       {
-        "value": 649,
+        "value": 659,
         "title": "いろいろな計算"
       },
       {
-        "value": 650,
+        "value": 660,
         "title": "数の世界のひろがり"
       },
       {
-        "value": 651,
+        "value": 661,
         "title": "正の数・負の数の利用"
       }
     ]
@@ -42,27 +42,27 @@
     "title": "[2] 文字の式",
     "children": [
       {
-        "value": 652,
+        "value": 662,
         "title": "数量を文字で表すこと"
       },
       {
-        "value": 653,
+        "value": 663,
         "title": "文字式の表し方"
       },
       {
-        "value": 654,
+        "value": 664,
         "title": "式の値"
       },
       {
-        "value": 655,
+        "value": 665,
         "title": "文字式の加法・減法"
       },
       {
-        "value": 656,
+        "value": 666,
         "title": "文字式と数の乗法・除法"
       },
       {
-        "value": 657,
+        "value": 667,
         "title": "関係を表す式"
       }
     ]
@@ -72,23 +72,23 @@
     "title": "[3] 方程式",
     "children": [
       {
-        "value": 658,
+        "value": 668,
         "title": "方程式とその解"
       },
       {
-        "value": 659,
+        "value": 669,
         "title": "方程式の解き方"
       },
       {
-        "value": 660,
+        "value": 670,
         "title": "比と比例式"
       },
       {
-        "value": 661,
+        "value": 671,
         "title": "方程式の利用"
       },
       {
-        "value": 662,
+        "value": 672,
         "title": "比例式の利用"
       }
     ]
@@ -98,31 +98,31 @@
     "title": "[4] 変化と対応",
     "children": [
       {
-        "value": 663,
+        "value": 673,
         "title": "関数"
       },
       {
-        "value": 664,
+        "value": 674,
         "title": "比例の式"
       },
       {
-        "value": 665,
+        "value": 675,
         "title": "座標"
       },
       {
-        "value": 666,
+        "value": 676,
         "title": "比例のグラフ"
       },
       {
-        "value": 667,
+        "value": 677,
         "title": "反比例の式"
       },
       {
-        "value": 668,
+        "value": 678,
         "title": "反比例のグラフ"
       },
       {
-        "value": 669,
+        "value": 679,
         "title": "比例・反比例の利用"
       }
     ]
@@ -132,27 +132,27 @@
     "title": "[5] 平面図形",
     "children": [
       {
-        "value": 670,
+        "value": 680,
         "title": "直線と図形"
       },
       {
-        "value": 671,
+        "value": 681,
         "title": "図形の移動"
       },
       {
-        "value": 672,
+        "value": 682,
         "title": "基本の作図"
       },
       {
-        "value": 673,
+        "value": 683,
         "title": "図形の移動と基本の作図の利用"
       },
       {
-        "value": 674,
+        "value": 684,
         "title": "円とおうぎ形の性質"
       },
       {
-        "value": 675,
+        "value": 685,
         "title": "円とおうぎ形の計量"
       }
     ]
@@ -162,23 +162,23 @@
     "title": "[6] 空間図形",
     "children": [
       {
-        "value": 676,
+        "value": 686,
         "title": "いろいろな立体"
       },
       {
-        "value": 677,
+        "value": 687,
         "title": "空間内の平面と直線"
       },
       {
-        "value": 678,
+        "value": 688,
         "title": "立体の構成"
       },
       {
-        "value": 679,
+        "value": 689,
         "title": "立体の体積"
       },
       {
-        "value": 680,
+        "value": 690,
         "title": "立体の表面積"
       }
     ]
@@ -188,15 +188,15 @@
     "title": "[7] データの活用",
     "children": [
       {
-        "value": 681,
+        "value": 691,
         "title": "データを活用して、問題を解決しよう"
       },
       {
-        "value": 682,
+        "value": 692,
         "title": "整理されたデータから読み取ろう"
       },
       {
-        "value": 683,
+        "value": 693,
         "title": "相対度数と確率"
       }
     ]
